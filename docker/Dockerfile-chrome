@@ -18,7 +18,7 @@ RUN apt-get update \
 RUN wget https://github.com/lightbody/browsermob-proxy/releases/download/browsermob-proxy-2.1.2/browsermob-proxy-2.1.2-bin.zip \
     && unzip browsermob-proxy-2.1.2-bin.zip \
     && wget http://selenium-release.storage.googleapis.com/2.41/selenium-server-standalone-2.41.0.jar \
-    && wget https://chromedriver.storage.googleapis.com/2.25/chromedriver_linux64.zip \
+    && wget https://chromedriver.storage.googleapis.com/2.35/chromedriver_linux64.zip \
     && unzip chromedriver_linux64.zip \
     && chmod +x chromedriver
 

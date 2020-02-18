@@ -23,7 +23,7 @@ This tool helps you to capture HTTP Archive (HAR) and additional performance dat
  
 5. Download chrome driver
    
-   wget -N http://chromedriver.storage.googleapis.com/2.10/chromedriver_linux64.zip  
+   wget -N http://chromedriver.storage.googleapis.com/2.35/chromedriver_linux64.zip  
    unzip chromedriver_linux64.zip  
    chmod +x chromedriver
 
